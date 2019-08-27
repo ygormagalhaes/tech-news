@@ -1,0 +1,27 @@
+Fonte: https://www.theverge.com/2019/1/28/18197520/ai-artificial-intelligence-machine-learning-computational-science
+
+tissue - tecido
+undoubtedly - indiscutivelmente
+scrutinizing - escrutinando, investigando
+tweaking - ajustando
+whether - se, quer
+bluster - fanfarronice(?)
+touted - elogiado
+clever - inteligente
+gibberish - sem nexo
+come down - se resume
+conflate - confundir
+mistakenly - erradamente
+
+O estado da IA em 2019
+
+É um problema psicológico comum: repita uma palavra invariavelmente e ela eventualmente perderá todo o seu sentido, se desintegrando como um tecido velho em uma insignificância fonética. Para a maior parte de nós a frase "inteligência artificial" se encaixa nesses termos há muito tempo. IA está em todos os lugares nesse momento, dito como algo que controla desde a sua TV até sua escova de dentes, e sendo um conceito tão mal entendido como nunca antes.
+
+Não deveria ser assim.
+
+Enquanto a frase "inteligência artificial" é inquestionável, indiscutivelmente mal entendida, a tecnologia está fazendo mais do que nunca - para bem e para o mal. IA está sendo implantada para tratamentos médicos e maximização de poder bélico; está ajudando pessoas a fazerem músicas e livros; investigando seu cúrriculo, avaliando sua credibilidade no mercado e ajustando as fotos que você tira em seu celular. Em resumo, está tomando decisões que afeta diretamente a sua vida, quer você queira ou não.
+
+Pode ser difícil conciliar o hype com a fanfarronice pela qual IA é discutida e mostrada pelas empresas de tecnologia e propagandas. Tome como exemplo a escova de dentes Genius X da Oral B anunciada nesse ano no CES e elogiada por suas supostas features com "IA". Mas além do que é mostrado nas manchetes, tudo que a "escova inteligente" faz é te dar um feedback sobre você estar escovando os dentes com o tempo mínimo recomendável e se está escovando nos lugares corretos. Existem alguns sensores inteligentes que trabalham em sua boca enquanto a escova está em sua boca, porém chamar isso de inteligência artificial não passa de uma completa besteira.
+
+Quando não há hype, há desentendimento. Coberturas de imprensa podem exagerar com supostas pesquisas científicas junto a uma imagem do exterminador do futuro ou alguma vaga história sobre IA qualquer. Frequentemente causa confusão sobre o que de fato é inteligência artificial. Isso pode ser um assunto complicado para os não experts, e as pessoas frequente e erroneamente confundem IA contemporânea com o que elas são mais familiares: uma versão sci-fi de uma consciência mais inteligente que os humanos. 
+
